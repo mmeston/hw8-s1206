@@ -1,6 +1,6 @@
 # Your name: Max Meston
 # Your student id: 1171 2492
-# Your email: mmeston@umich.edu
+# Your email: mmeston@umich.edu 
 # List who you have worked with on this homework: Hudson Bush, Emma Moore
 
 import matplotlib.pyplot as plt
